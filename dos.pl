@@ -12,7 +12,7 @@ use strict;
 if ($#ARGV != 3) {
   print "-Tip on use : perl DDoS.pl 8.8.8.8 80 2048 500\n";
   print "-Tip on use : perl DDoS.pl - IP - PORT - SIZE OF PACKET TO SEND - TIME IN SECONDS\n";
-  print "-Please Use Responsibly - SirCryotic\n";
+  print "-Please Use Responsibly - SirCryptic\n";
   exit(1);
 }
  
